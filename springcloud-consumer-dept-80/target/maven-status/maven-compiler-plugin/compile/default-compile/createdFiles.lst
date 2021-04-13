@@ -1,0 +1,4 @@
+com\aking\myrule\MyRule.class
+com\aking\springcloud\DeptConsumer_80.class
+com\aking\springcloud\controller\DeptConsumerController.class
+com\aking\springcloud\config\ConfigBean.class
